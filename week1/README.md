@@ -1,12 +1,14 @@
 ## Week 1 Definition of Done
 
-- [ ] Python 3.11 installed & version logged
-- [ ] venv created inside week1/ (name: venv-w1)
-- [ ] pip list exported to `week1/requirements.txt`
-- [ ] `mad_libs.py` runs without errors
-- [ ] screenshot attached under `week1/docs/demo.png`
+- [x] Python 3.11 installed & version logged
+- [x] venv created inside week1/ (name: venv-w1)
+- [x] pip list exported to `week1/requirements.txt`
+- [x] `mad_libs.py` runs without errors
+- [x] screenshot attached under `week1/docs/mad_libs_demo.png`
 
 Evidence will appear in `week1/setup_log.txt`
+
+### Commands learnt so far
 
 | Step | Command                                     | What it does                    | Why it matters                                         |
 | ---- | ------------------------------------------- | ------------------------------- | ------------------------------------------------------ |
